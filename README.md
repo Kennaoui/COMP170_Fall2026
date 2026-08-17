@@ -33,7 +33,7 @@ Pull regularly (`git pull`) to stay current, since new materials will be added a
 
 ## A note on use
 
-Materials here are provided for enrolled students in COMP 170-002. Per the course syllabus, course materials may not be redistributed or shared outside the course without the instructor's written permission.
+Materials here are provided for enrolled students in COMP 170-002.
 
 ## Questions?
 
