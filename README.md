@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/loyola-logo.png" alt="Loyola University Chicago" width="360">
+  <img src="assets/LUClogo.jpeg" alt="Loyola University Chicago" width="360">
 </p>
 
 <h1 align="center">COMP 170-002 — Introduction to Programming</h1>
