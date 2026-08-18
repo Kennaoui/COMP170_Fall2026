@@ -25,8 +25,8 @@ Sakai remains the **authoritative source** for the syllabus, graded assignments,
 ## How to use this repo
 
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Kennaoui/COMP170_Fall26.git
+cd COMP170_Fall26
 ```
 
 Pull regularly (`git pull`) to stay current, since new materials will be added as we move through the semester. If you're new to the terminal or Git, that's completely fine — we'll cover the basics together in class, and this repo will double as some early hands-on practice.
