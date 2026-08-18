@@ -2,7 +2,7 @@
   <img src="assets/LUClogo.jpeg" alt="Loyola University Chicago" width="360">
 </p>
 
-<h1 align="center">COMP 170-002 — Introduction to Programming</h1>
+<h1 align="center">COMP 170-002 — Introduction to OO Programming</h1>
 <h3 align="center">Fall 2026 · Department of Computer Science · Loyola University Chicago</h3>
 
 ---
