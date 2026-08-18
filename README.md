@@ -9,7 +9,7 @@
 
 ## About this repository
 
-This repository is the shared home for course resources in **COMP 170-002: Introduction to Programming**, taught by **Dr. Karima Ennaoui** in Fall 2026. Throughout the semester, it will collect resources meant to support you as you learn Python from first principles and build toward programming fundamentals, object-oriented thinking, and comfort working in a terminal-based development environment.
+This repository is the shared home for course resources in **COMP 170-002: Introduction to Object Oriented Programming**, taught by **Dr. Karima Ennaoui** in Fall 2026. Throughout the semester, it will collect resources meant to support you as you learn Python from first principles and build toward programming fundamentals, object-oriented thinking, and comfort working in a terminal-based development environment.
 
 Sakai remains the **authoritative source** for the syllabus, graded assignments, deadlines, and official announcements. This repository is a companion resource — a place to pull in-class notes, working code, review examples at your own pace, and see how programs evolve as we cover new topics across the semester.
 
@@ -17,7 +17,7 @@ Sakai remains the **authoritative source** for the syllabus, graded assignments,
 
 | | |
 |---|---|
-| **Course** | COMP 170-002 — Intro to Programming & the CS Major |
+| **Course** | COMP 170-002 — Intro to Object Oriented Programming|
 | **Term** | Fall 2026 |
 | **Instructor** | Dr. Karima Ennaoui (kennaouis@luc.edu) |
 | **Meets** | Mon / Wed / Fri, 10:25–11:15 AM — Mundelein Center Rm 204 (Lake Shore) |
@@ -37,4 +37,4 @@ Materials here are provided for enrolled students in COMP 170-002.
 
 ## Questions?
 
-Reach out by email (include "COMP 170-002" in the subject line) or bring your question to student hours.
+Reach out by email (include "COMP 170-002" in the subject line) or bring your question to office hours.
